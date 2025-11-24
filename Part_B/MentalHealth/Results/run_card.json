@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-24T03:51:58.957481Z",
+  "python": "3.11.13 (main, Jun  4 2025, 08:57:29) [GCC 11.4.0]",
+  "platform": "Linux-6.6.56+-x86_64-with-glibc2.35",
+  "libs": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3"
+  },
+  "config": {
+    "DATA_DIR": "/kaggle/input/mentalhealthdata",
+    "PATTERN": "*.csv",
+    "TFIDF_MAX_FEATURES": 200000,
+    "SEED": 42
+  }
+}

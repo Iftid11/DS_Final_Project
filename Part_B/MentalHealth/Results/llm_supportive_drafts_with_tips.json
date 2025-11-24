@@ -1,0 +1,37 @@
+[
+  {
+    "category":"ptsd",
+    "title":"I’m supposed to be doing a project for school, but it’s nearly identical to my trauma",
+    "tips":"keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust.",
+    "model_draft":"I'm really sorry you're feeling this way. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number right now. If you can, reach out to someone you trust. You deserve support and safety.",
+    "final_reply":"I'm really sorry you're feeling this way. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number right now. If you can, reach out to someone you trust. You deserve support and safety. Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number."
+  },
+  {
+    "category":"mentalillness",
+    "title":"i have a good life, friends and everything but sometimes i still wish that i won’t wake up in the morning",
+    "tips":"keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust.",
+    "model_draft":"I'm really sorry you're feeling this way. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number right now. If you can, reach out to someone you trust. You deserve support and safety.",
+    "final_reply":"I'm really sorry you're feeling this way. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number right now. If you can, reach out to someone you trust. You deserve support and safety. Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number."
+  },
+  {
+    "category":"depression",
+    "title":"Does anhedonia ever go away?",
+    "tips":"steady wake time, a two-minute movement, and finish one small task.",
+    "model_draft":"– Getting out of depressive episodes has been a lot of work. I'm not even a fan of the art, but I have a habit of watching movies and doing my best to get out of the depressive episodes. I'm not even in meds. What are your hobbies? You're a supporter.",
+    "final_reply":"– Getting out of depressive episodes has been a lot of work. I'm not even a fan of the art, but I have a habit of watching movies and doing my best to get out of the depressive episodes. I'm not even in meds. What are your hobbies? You're a supporter. Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: steady wake time, a two-minute movement, and finish one small task. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number."
+  },
+  {
+    "category":"depression",
+    "title":"i will overcome this. i will.",
+    "tips":"steady wake time, a two-minute movement, and finish one small task.",
+    "model_draft":"– It was my fetus. Yesterday I went home to take a nap. I was on my way home. I had to take a nap, and i was so tired. I was so tired. I had to be alone. I didn't know what to do. I was in bed and I slept well. I was so tired I cried. I didn't want to sleep.",
+    "final_reply":"– It was my fetus. Yesterday I went home to take a nap. I was on my way home. I had to take a nap, and i was so tired. I was so tired. I had to be alone. I didn't know what to do. I was in bed and I slept well. I was so tired I cried. I didn't want to sleep. Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: steady wake time, a two-minute movement, and finish one small task. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number."
+  },
+  {
+    "category":"mentalillness",
+    "title":"I have this thing where loud noises make me feel anxious and angry.",
+    "tips":"keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust.",
+    "model_draft":"Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number.",
+    "final_reply":"Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number. Thank you for sharing this. What you're feeling sounds hard. Here are a few gentle ideas: keep sleep regular, take a short walk, reduce late-night screens, reach out to someone you trust. If anything feels overwhelming, shrink it to the smallest possible step. If you are in immediate danger or thinking about harming yourself, please contact your local emergency number."
+  }
+]
